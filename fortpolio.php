@@ -19,7 +19,7 @@
     </header>
     <section id="home">
         <h1>Welcome to My Portfolio</h1>
-        <p>This is a brief introduction to me and my work.</p>
+        <p>.s</p>
     </section>
     <section id="about">
         <h2>About Me</h2>
